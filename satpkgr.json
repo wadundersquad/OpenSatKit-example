@@ -1,0 +1,14 @@
+{
+  "name": "johannkm/OpenSatKit-example",
+  "description": "an example openSatKit package",
+  "version": "0.0.1",
+  "author": "your name",
+  "cosmos": {
+  	"entry": "helloworld_launcher.rb"
+  },
+  "cfs": {
+  },
+  "dependencies": {
+    "johannkm/OpenSatKit-example": "0.0.1"
+  }
+}
